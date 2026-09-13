@@ -40,7 +40,7 @@ The main objective was to build an interactive Excel dashboard that transforms r
 
 ## Dashboard Preview
 
-![Sales Analysis Dashboard](Sales_Analytics_Dashboard.png)
+- ![Sales Analysis Dashboard](Sales_Analytics_Dashboard.png)
 
 ## Project File 
 
